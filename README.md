@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Priyu1205
-- 👀 I’m interested for the job role software engineer and project management.
-- 🌱 I’m currently learning Full stack web development.
+- 👋 Hi, I’m Priyam!!!
+- 👀 I’m interested for the job role software engineer and java developer.
+- 🌱 I’m currently learning Java Full Stack.
 - 😄 Pronouns: She/Her
 
 <!---
